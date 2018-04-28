@@ -1,0 +1,20 @@
+body {
+    background-color: #87EA87; 
+}
+
+.logo {
+    background-color: #01A601;
+    color: #FADDFD;
+    font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+background-color: #227D00;
+color: #FADDFD;
+font-family: 'Nunito', sans-serif;
+}
+
+p {
+color: #000000;
+font-family: 'Nunito', sans-serif;
+}

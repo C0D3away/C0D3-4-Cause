@@ -1,0 +1,26 @@
+body {
+    background-color: #35B4AF; 
+}
+
+a {
+    color: #FADDFD;
+}
+
+.logo {
+    background-color: #005D59;
+    color: #FADDFD;
+    font-family: 'Indie Flower', cursive;
+}
+
+.wiplink {
+    font-family: 'Nunito', sans-serif;
+}
+
+.github {
+    font-family: 'Nunito', sans-serif;
+}
+
+.email {
+    font-family: 'Do Hyeon', sans-serif;
+    color: #FADDFD;
+}
